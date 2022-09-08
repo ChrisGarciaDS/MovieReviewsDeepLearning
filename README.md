@@ -1,4 +1,4 @@
-Objective: In this notebook, I will be going over a binary classification problem for movie reviews. 
+Objective: In this notebook, I will be going over a binary classification problem for movie reviews. The walkthrough will also be on my blog if you have access to that through my portfolio website. 
 The objective will be to classify movie reviews as being either positive or negative, based on the content given in the reviews text. 
 
 Dataset:
